@@ -35,6 +35,7 @@ plugins:
     # Specific appearance and order of navigation links
 header_pages:
   - index.md
+  - projects.md
   - about.md
   - contact.md
 
