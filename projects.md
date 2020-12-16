@@ -22,6 +22,7 @@ This goal was achieved through contributions from Charlie Roberts, a mathematics
 This project is still in the works.
 
 ### Training material for VI students who choose to independently operate CAS or graphical calculators.
+The bulk of this material has been produced by Nathaniel Schmidt and Charlie Roberts.
 
 Our aim is to produce a video presentation, which will reveal the results of a comparative and contrastive software-analytical assessment of viable and useful CAS software solutions for students.  the aim will be to find and demonstrate solutions that:
 * Are preferably cross-platform, particularly if they can be used on computer operating systems such as Mac, windows and Linux;
@@ -31,6 +32,6 @@ Our aim is to produce a video presentation, which will reveal the results of a c
 #### Specifications for students studying in Victoria, Australia, according to the state curiculum:
 Currently, [VCAA](https://vcaa.vic.edu.au/) approves for use in formal examinations the use of Maplesoft's [Maple](https://maplesoft.com/products/maple/) ([Student ed.](https://www.maplesoft.com/products/Maple/students/)), the popular [Wolfram Mathematica](https://www.wolfram.com/mathematica/) and Mathworks' classic [Matlab](https://au.mathworks.com/products/matlab.html), commonly used by engineers throughout the world.  But these solutions have only been partially tested from a VI standpoint and are only general specs for individually approved schools, not individual persons.  So in other words, it is important to note that there are not necessarily any specific accessibility considerations in mind for a VI student under these circumstances on the part of the VCAA.
 
-It is my intention to examine all of these solutions, with the additional inclusion of the solution that I used for both Methods and Further Maths, namely the free, open-source and cross-platform [Maxima](http://maxima.sourceforge.net/) CAS software calculator, which has a very arguably similar syntactical and functional feel to Maple and takes up far less hard disk space compared to the other commercialised solutions.
+It is our intention to examine all of these solutions, with the additional inclusion of the solution that I used for both Methods and Further Maths, namely the free, open-source and cross-platform [Maxima](http://maxima.sourceforge.net/) CAS software calculator, which has a very arguably similar syntactical and functional feel to Maple and takes up far less hard disk space compared to the other commercialised solutions.
 
 Access to the video(s) will be contained below, which will probably be licensed under a Creative Commons License.  It is hoped that they will be ready and published by February 2021.
