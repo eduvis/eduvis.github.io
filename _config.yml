@@ -19,18 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 title: EduVis - Empowering People Who Have Impaired Vision
-email: charlie@eduvis.com.au
+name: EduVis
 description: >- # this means to ignore newlines until "baseurl:"
   Eduvis, a not-for-profit organisation providing educational strategies for blind and vision (visually) impaired students taking up studies in mathematics and physical education within higher education.  Founded by Charlie Roberts.  Provides funding for accessible calculators, research and development of accessible CAS software calculators and presentations as a resource for VI students on available CAS solutions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eduvis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:  eduvis
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  
+    # Specific appearance and order of navigation links
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
