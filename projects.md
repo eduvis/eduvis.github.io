@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Available and Forthcoming Projects
+title: Projects
 description: "Contained below is a descriptive container of the projects affiliated with Eduvis."
 permalink: /projects/
 ---
@@ -15,8 +15,8 @@ The main aims of the PRACB fund are to:
 
 The PRACB and its aims have been approved at an interstate level in New South Wales, South Australia, Queensland and by [Dr. Kyle Keane](http://www.kylekeane.com/) of [Massachusetts Institute of Technology (MIT)](https://web.mit.edu/bin/cgicso?options=general&query=kyle+keane), a lecturer of mathematical and computational methods, lecturer of principles and practice of assistive technology, as well as a [research programmer of educational software and special projects and an R&D Fellow at Wolfram Research Inc.](https://community.wolfram.com/web/kylek)
 
-### Funds for accessible calculators given to education services for students with VI, in all states and territories of Australia in 2020.
-This goal was achieved through contributions from Charlie Roberts, a mathematics and physical education teacher and teacher for vision impaired students.
+### Funds for accessible calculators offered to education services for students with VI, in all states and territories of Australia in 2020.
+Funds were offered in all states and offers were taken up in NSW, QLD and SA, a project headed up by Charlie Roberts, a mathematics and physical education teacher and teacher for vision impaired students.
 
 ### Research and development of accessible CAS calculator software that can be independently operated by VI students
 This project is still in the works.
