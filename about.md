@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: About EduVis
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## What is Eduvis?
+Eduvis (standing for &ldquo;Education Vision&rdquo;) is a not-for-profit organisation, founded in mid 2019 by [Charlie Roberts](https://shortcourses.ridbc.org.au/people/charlie-roberts/), a Mathematics and Physical Education teacher and Teacher for Students with Vision Impairment from Victoria, Australia.  Eduvis aims to provide informative numeracy and physical-educational resources and strategies for any blind or vision impaired (VI) students -- but specifically for those in Australian (Victorian) secondary education -- who may be considering the prospect of taking up studies in mathematics at an intermediate or advanced level, or physical education.  Eduvis promotes educational independence of VI students at home and at school.  In Victoria this study culminates, beyond the Victorian Curriculum and Assessment Authority (VCAA)'s basic [Further Mathematics](https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/furthermathematics/Pages/Index.aspx) subject, in the options of either CAS Maths ([Mathematical Methods](https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/mathematicalmethods/Pages/Index.aspx)) and / or [Specialist Mathematics](https://www.vcaa.vic.edu.au/curriculugm/vce/vce-study-designs/specialistmathematics/Pages/Index.aspx) in years eleven and twelve.  It is also hoped that these resources may continue to be helpful for a student if any further education in mathematics is taken up at a tertiary level.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Why the Need for Such an Organisation?
+Different states in Australia have  fairly varied standards when it comes to government-approved solutions for mathematical calculation by electronic and computational means.  Some states recommend (if not require) the use of  [graphing calculators](https://en.wikipedia.org/wiki/Graphing_calculator), while another approves [scientific calculators](https://en.wikipedia.org/wiki/Scientific_calculator) only.  Victoria is unique in that it specifically mandates the use of [Computer Algebra Systems (CAS)](http://www.math.wpi.edu/IQP/BVCalcHist/calc5.html#:~:text=Computer%20Algebra%20systems%20can%20be,integrate%2C%20and%20differentiate%20arbitrary%20equations.) calculators for computing solutions to problems.  A CAS calculator is a hardware or software entity, sometimes slightly more specialised than a general scientific calculator, that utilises internally designed and coded algorithms, which attempt to replicate, to the best degree possible, the human activity that a mathematician would need to use in order to solve a mathematical problem.  they can be used to work out a whole range of problems: they can solve, simplify or expand quadratics i.e.  linear-algebraic expressions and equations; they can work with matrices; they can do calculus; and a huge range of other things.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In the past, compromises have sometimes been made by using accessible graphing calculators, as some programmable graphing calculators already have CAS capabilities built into their software.  However, practically all of the hardware solutions are very expensive, although things have been made a little easier with online calculators in the form of accessible web applications such as graphing and scientific solutions from websites such as [Desmos](https://www.desmos.com/).  But these &lsquo;solutions&rsquo; have always been a purely pragmatic, concessional compromise and do not match the state of Victoria's [educational-technological specifications](https://www.vcaa.vic.edu.au/assessment/vce-assessment/materials/Pages/calculators.aspx) for higher-level secondary mathematics.  The student is still largely responsible for doing the extra hard work of doing one's own homework in order to solve their work and disability-related issues, as the VCAA-approved textbooks do not provide graphing calculator solutions to problems used in the classroom.
 
+The most currently viable solution appears to be the use of software CAS solutions.  There are many of these available and VCAA has reportedly approved quite a number of different software solutions as alternatives to hardware CAS calculators.  Consequently, it can be very difficult for a blind or vision impaired student to know where to start.  It is therefore deemed necessary to provide readily accessible information on what solutions are available, the pros and cons of each, what modes of access they can be used in and precisely how to actually operate specific software features in order to address mathematical problems found in workbook exercises.
 
-[jekyll-organization]: https://github.com/jekyll
+## Find Out More
+If yu wish to find out more about the organisation, you can [contact us](/contact/).
