@@ -15,4 +15,4 @@ In the past, compromises have sometimes been made by using accessible graphing c
 The most currently viable solution appears to be the use of software CAS solutions.  There are many of these available and VCAA has reportedly approved quite a number of different software solutions as alternatives to hardware CAS calculators.  Consequently, it can be very difficult for a blind or vision impaired student to know where to start.  It is therefore deemed necessary to provide readily accessible information on what solutions are available, the pros and cons of each, what modes of access they can be used in and precisely how to actually operate specific software features in order to address mathematical problems found in workbook exercises.
 
 ## Find Out More
-If yu wish to find out more about the organisation, you can [contact us](/contact/).
+If you wish to find out more about the organisation, you can [contact us](/contact/).
