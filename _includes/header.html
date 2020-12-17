@@ -6,6 +6,11 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
+<div><script async src="https://cse.google.com/cse.js?cx=010267784856595489876:g2m8uipck40"></script></div>
+<div class="gcse-search"></div>
+<br>
+&mdash; Brought to you by <a href="https://cse.google.com/cse/">Google Customisable Search</a>
+
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
         <label for="nav-trigger">
@@ -15,11 +20,6 @@
             </svg>
           </span>
         </label>
-
-<div><script async src="https://cse.google.com/cse.js?cx=010267784856595489876:g2m8uipck40"></script></div>
-<div class="gcse-search"></div>
-<br>
-&mdash; Brought to you by <a href="https://cse.google.com/cse/">Google Customisable Search</a>
 
         <div class="trigger">
           {%- for path in page_paths -%}
