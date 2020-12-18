@@ -1,0 +1,4 @@
+Contained below is a list of the people who have contributed to the Eduvis website.
+
+* Brian Coogan <brian.coogan@gmail.com> - Updates to CName and ANames / IPs within domain name registrar's DNS records.
+* Nathaniel Schmidt <schmidty2244@gmail.com> - Website creator and primary build maintainer
