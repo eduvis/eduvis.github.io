@@ -15,6 +15,15 @@ The main aims of the PRACB fund are to:
 
 The PRACB and its aims have been approved at an interstate level in New South Wales, South Australia, Queensland and by [Dr. Kyle Keane](http://www.kylekeane.com/) of [Massachusetts Institute of Technology (MIT)](https://web.mit.edu/bin/cgicso?options=general&query=kyle+keane), a lecturer of mathematical and computational methods, lecturer of principles and practice of assistive technology, as well as a [research programmer of educational software and special projects and an R&D Fellow at Wolfram Research Inc.](https://community.wolfram.com/web/kylek)
 
+### Entertainment Book fundraiser
+Following 10 purchases of the digital entertainment book using the below link, for each subsequent digital Entertainment Book purchase the PRACB will receive 20% of the purchase amount. Fundraising will be distributed towards:
+* 40% towards purchasing accessible calculators for Australian students receiving educational vision support services. 
+* 50% for EduVis to develop training and resources for Yr. 10-12 Victorian students wanting to operate CAS or Graphic calculators & software independently in VCE Maths.
+* 10% to Dr. [Kyle Keane](http://www.kylekeane.com/)'s research and development towards open source accessible CAS. Kyle is an advocate of disability access and a Massachusetts Institute of Technology lecturer and research programmer.
+
+Link:
+[https://www.entertainment.com.au/orderbooks/965j898](https://www.entertainment.com.au/orderbooks/965j898)
+
 ### Funds for accessible calculators offered to education services for students with VI, in all states and territories of Australia in 2020.
 Funds were offered in all states and offers were taken up in NSW, QLD and SA, a project headed up by Charlie Roberts, a mathematics and physical education teacher and teacher for vision impaired students.
 
