@@ -2,7 +2,7 @@
 layout: page
 title: Research
 description: "Eduvis is a not-for-profit organisation, providing educational resources and strategies for any blind or vision (or visually) impaired students -- specifically for those in Victorian (Australian) secondary education -- who may be considering the prospect of taking up studies in mathematics at an intermediate or advanced level.  In Victoria this culminates, beyond the basic Further Maths, in either CAS Maths (Methods) and / or Specialist Mathematics."
-permalink: /eduvis/
+permalink: /research/
 ---
 
 ## Existing External Research
