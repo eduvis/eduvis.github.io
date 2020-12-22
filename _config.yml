@@ -36,6 +36,7 @@ plugins:
 header_pages:
   - index.md
   - projects.md
+  - research.md
   - about.md
   - contact.md
 
