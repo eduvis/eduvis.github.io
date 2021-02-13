@@ -43,4 +43,4 @@ Currently, [VCAA](https://vcaa.vic.edu.au/) approves for use in formal examinati
 
 It is our intention to examine all of these solutions, with the additional inclusion of the solution that I used for both Methods and Further Maths, namely the free, open-source and cross-platform [Maxima](http://maxima.sourceforge.net/) CAS software calculator, which has a very arguably similar syntactical and functional feel to Maple and takes up far less hard disk space compared to the other commercialised solutions.
 
-Access to the video(s) will be contained below, which will probably be licensed under a Creative Commons License.  It is hoped that they will be ready and published by February 2021.
+Access to the video(s) will be contained below, which will be licensed under a Creative Commons License.  It is hoped that they will be ready and published by February 2021.
