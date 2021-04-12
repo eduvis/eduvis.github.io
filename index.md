@@ -16,8 +16,3 @@ Following 10 purchases of the digital entertainment book using the above link, f
 * 40% towards purchasing accessible calculators for Australian students receiving educational vision support services. 
 * 50% for EduVis to develop training and resources for Yr. 10-12 Victorian students wanting to operate CAS or Graphic calculators & software independently in VCE Maths.
 * 10% to Dr. [Kyle Keane](http://www.kylekeane.com/)'s research and development towards open source accessible CAS. Kyle is an advocate of disability access and a Massachusetts Institute of Technology lecturer and research programmer.
-
-## Did You Know?
-* [Over 13 million Australians (55% of the total population) were self-reported to have one or more long-term eye conditions in 2017-18](https://www.aihw.gov.au/reports/eye-health/eye-health/contents/how-common-is-visual-impairment).
-* Out of those, 131500 people had partial or total blindness.
-* Vision impairment and blindness are three times higher in indigenous Australians than in non-indigenous Australians.
