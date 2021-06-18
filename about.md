@@ -16,3 +16,5 @@ The most currently viable solution appears to be the use of software CAS solutio
 
 ## Find Out More
 If you wish to find out more about the organisation, you can [contact us](/contact/).
+
+[Meet the Team here](/team/).

@@ -35,9 +35,10 @@ plugins:
     # Specific appearance and order of navigation links
 header_pages:
   - index.md
+  - about.md
+  - team.md
   - projects.md
   - research.md
-  - about.md
   - contact.md
 
 environment: prod
