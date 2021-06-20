@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Meet the Team
+description: "Contained here is a briefly descriptive summary of the people involved in the Eduvis organisation:"
 permalink: /team/
 ---
 
-You can see the [About](/about/) section of this site for more information about the organisation itself.  But contained below is a briefly descriptive summary of the people involved in the Eduvis organisation:
+You can see the [About](/about/) section of this site for more information about the organisation itself.  But contained below is a briefly descriptive summary of the people involved in Eduvis:
 
 ## Kyle Keane
 [Dr. Kyle M. Keane](http://www.kylekeane.com/) is currently a Lecturer at Massachusetts Institute of Technology (MIT) in the Department of Materials Science and Engineering. he teaches computational materials science, human-centered design, and engineering technology that helps people with disabilities. He directs an undergraduate research group called the Interactive Materials Education Laboratory (IMEL) where students use technology and computation to make science more tangible and creatively engaging.  He has also been [an R&D Fellow at Wolfram Research Inc.](https://community.wolfram.com/web/kylek)
