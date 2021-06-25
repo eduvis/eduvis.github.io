@@ -24,6 +24,8 @@ Following 10 purchases of the digital entertainment book using the below link, f
 Link:
 [https://www.entertainment.com.au/orderbooks/965j898](https://www.entertainment.com.au/orderbooks/965j898)
 
+We are most grateful for donations to the benefit from Ronda & Barrie Moeller, Nicole Monroe & Sonja Braniff.
+
 ### Funds for accessible calculators offered to education services for students with VI, in all states and territories of Australia in 2020.
 Funds were offered in all states and offers were taken up in NSW, QLD and SA, a project headed up by Charlie Roberts, a mathematics and physical education teacher and teacher for vision impaired students.
 

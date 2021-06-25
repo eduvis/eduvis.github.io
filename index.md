@@ -16,3 +16,5 @@ Following 10 purchases of the digital entertainment book using the above link, f
 * 40% towards purchasing accessible calculators for Australian students receiving educational vision support services. 
 * 50% for EduVis to develop training and resources for Yr. 10-12 Victorian students wanting to operate CAS or Graphic calculators & software independently in VCE Maths.
 * 10% to Dr. [Kyle Keane](http://www.kylekeane.com/)'s research and development towards open source accessible CAS. Kyle is an advocate of disability access and a Massachusetts Institute of Technology lecturer and research programmer.
+
+We are most grateful for donations to the benefit from Ronda & Barrie Moeller, Nicole Monroe & Sonja Braniff.
