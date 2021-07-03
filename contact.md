@@ -12,3 +12,6 @@ For business and educational queries, contact the organisation's founder, [Charl
 for IT / admin-related queries (website, GitHub, social media, etc), contact [Nathaniel Schmidt](MAILTO:schmidty2244@gmail.com)
 
 You can also contribute to the community on [GitHub](https://github.com/eduvis).
+
+## Alternatively, fill out the following form:
+{% include contact-form.html %}
