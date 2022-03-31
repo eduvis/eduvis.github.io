@@ -16,7 +16,7 @@ In his career, he has worked at well-established software companies, digital pub
 You can locate, follow and / or contact him on [LinkedIn](https://www.linkedin.com/in/kylekeane/), [GitHub](https://github.com/kylekeane/), or by email (kyle[at]kylekeane.com).  His tertiary institutional contact information can be found [here](https://web.mit.edu/bin/cgicso?options=general&query=kyle+keane).
 
 ## Charlie Roberts
-[Charlie](https://shortcourses.ridbc.org.au/people/charlie-roberts/) is a Mathematics and Physical Education teacher from Australia.  He works as a visiting teacher catering for needs specifically tailored to secondary high school students who are blind or vision impaired.  Charlie is also the founder of Eduvis.
+[Charlie](https://www.linkedin.com/in/charlie-roberts-97505455/) is a Mathematics and Physical Education teacher from Australia.  He works as a visiting teacher catering for needs specifically tailored to secondary high school students who are blind or vision impaired.  Charlie is also the founder of Eduvis.
 
 ### Contacting Charlie
 Charlie can be reached by email (charlie[at]eduvis.com.au).
