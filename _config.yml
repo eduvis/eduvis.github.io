@@ -41,7 +41,6 @@ header_pages:
   - maple-2022-cheat-sheet.md
   - testimonials.md
   - links.md
-  - research.md
   - contact.md
 
 environment: prod
