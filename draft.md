@@ -6,19 +6,22 @@ permalink: /maple-2022-cheat-sheet/
 ---
 
 By Charlie Roberts
+
 Here is a Cheat Sheet for VCE students interested in operating a CAS calculator independently, using the NVDA screen reader. Best of luck and get in touch if you need a hand.
+
 ## Maple 2022 Operation
 ### Acknowledgements
 Thanks to Robert & Raymond from [ASES](https://www.ases.co/) and Nathaniel from EduVis, for contributing to this document.
+
 ### Description
 Maple Computer Algebra System (CAS) software can algebraically manipulate numbers, symbolic formulas, polynomials, sets, lists, equations, arrays, vectors, and matrices. It can solve systems of equations and differentiate and integrate expressions. Maple can run on Windows, Mac & Linux operating systems.
-### Screen reader Accessibility in Maple 2022
-Maple now has an accessibility mode which optimizes the Standard interface for users of the NVDA screen reader.
 
-To turn on screen reader mode in Maple 2022:
-From the Tools menu, select ```
-Accessibility > Use Screen Reader Settings
-```
+### Screen reader Accessibility in Maple 2022
+Maple now has an accessibility mode which optimizes the Standard interface for users of the NVDA screen reader. To turn on screen reader mode in Maple 2022:
+   From the Tools menu, select
+   ```
+   Accessibility > Use Screen Reader Settings
+   ```
 . Alternatively, use the shortcut key `F10`.
 
 Maple 2022 Screen Reader settings (standard interface) are tested and optimized for NVDA. An image of the standard interface in Screen Reader mode is below. However, JAWS users will still need to operate in the command-line interface by selecting the `Windows key`, then ```
