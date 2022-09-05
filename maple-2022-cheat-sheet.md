@@ -6,5 +6,5 @@ permalink: /maple-2022-cheat-sheet/
 ---
 
 <head>
-<meta http-equiv="refresh" content="0;URL=/maple_2022_screen-reader_cheat-sheet.html">
+<meta http-equiv="refresh" content="0;URL=/maple_2022_screen-reader_cheat-sheet.docx">
 </head>
