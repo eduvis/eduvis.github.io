@@ -19,6 +19,11 @@ Following 10 purchases of the digital entertainment book using the above link, f
 
 We are most grateful for donations to the benefit from Ronda & Barrie Moeller, Nicole Monroe & Sonja Braniff.
 
+## Maple 2022 and Screen Reader Cheat-sheet
+Maple is a CAS software calculator approved by VCAA as an alternative to hardware CAS calculators. Charlie Roberts has developed a cheat sheet with the team at Ases, one of the re-sellers for Maplesoft, the company that makes Maple. The document summarises how to use the graphical and command-line interfaces of Maple 2022 with NVDA and JAWS but mostly NVDA.
+
+You can find out more and download it [here](/maple-2022-cheat-sheet/).
+
 ## Organisation Activity on Github
 <div class="github-profile-badge" data-user="eduvis"></div>
 <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
