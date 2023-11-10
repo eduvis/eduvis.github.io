@@ -10,16 +10,20 @@ Contained below is a descriptive container of the projects affiliated with Eduvi
 ## The &lsquo;Pat Roberts Accessible Calculator Benefit&rsquo; (PRACB)
 The main aims of the PRACB fund are to:
 * Offer funds for accessible calculators to education services for students with VI, in all states and territories of Australia in 2020.
-* Help fund, in part, along with other organisations, research and development of accessible CAS calculator software that can be independently operated by VI students, a project lead by Dr. Keane.
+<!--* Help fund, in part, along with other organisations, research and development of accessible CAS calculator software that can be independently operated by VI students, a project lead by Dr. Keane.-->
 * Produce training material to support VI students who choose to independently operate CAS or graphical calculators.
 
-The PRACB and its aims have been approved at an interstate level in New South Wales, South Australia, Queensland and by [Dr. Kyle Keane](http://www.kylekeane.com/) of [Massachusetts Institute of Technology (MIT)](https://web.mit.edu/bin/cgicso?options=general&query=kyle+keane), a lecturer of mathematical and computational methods, lecturer of principles and practice of assistive technology, as well as a [research programmer of educational software and special projects and an R&D Fellow at Wolfram Research Inc.](https://community.wolfram.com/web/kylek)
+The PRACB and its aims have been approved at an interstate level in New South Wales, South Australia and Queensland. <!--and by [Dr. Kyle Keane](http://www.kylekeane.com/) of [Massachusetts Institute of Technology (MIT)](https://web.mit.edu/bin/cgicso?options=general&query=kyle+keane), a lecturer of mathematical and computational methods, lecturer of principles and practice of assistive technology, as well as a [research programmer of educational software and special projects and an R&D Fellow at Wolfram Research Inc.](https://community.wolfram.com/web/kylek)-->
 
 ### Entertainment Book fundraiser
+<!--Old content:
 Following 10 purchases of the digital entertainment book using the below link, for each subsequent digital Entertainment Book purchase the PRACB will receive 20% of the purchase amount. Fundraising will be distributed towards:
 * 40% towards purchasing accessible calculators for Australian students receiving educational vision support services. 
 * 50% for EduVis to develop training and resources for Yr. 10-12 Victorian students wanting to operate CAS or Graphic calculators & software independently in VCE Maths.
-* 10% to Dr. [Kyle Keane](http://www.kylekeane.com/)'s research and development towards open source accessible CAS. Kyle is an advocate of disability access and a Massachusetts Institute of Technology lecturer and research programmer.
+* 10% to Dr. [Kyle Keane](http://www.kylekeane.com/)'s research and development towards open source accessible CAS. Kyle is an advocate of disability access and a Massachusetts Institute of Technology lecturer and research programmer.-->
+
+EduVis Entertainment Book Fundraising is distributed towards $500 bursaries to purchase expensive accessible calculators for Yr.10-12 Australian maths students with blindness and vision impairment. 
+It is anticipated that having an accessible calculator will improve student independence and improve the retention rate of students with BVI studying senior maths in secondary schools.
 
 Link:
 [https://www.entertainment.com.au/orderbooks/965j898](https://www.entertainment.com.au/orderbooks/965j898)
