@@ -12,11 +12,12 @@ Welcome to the online home of Eduvis, an organisation dedicated to the promotion
 
 ## The EduVis - &lsquo;Pat Roberts Accessible Calculator Benefit&rsquo; Entertainment Book fundraiser
 [https://www.entertainment.com.au/orderbooks/965j898](https://www.entertainment.com.au/orderbooks/965j898)
-<!--Old info:
+
+<!-- Old info:
 Following 10 purchases of the digital entertainment book using the above link, for each subsequent digital Entertainment Book purchase the PRACB will receive 20% of the purchase amount. Fundraising will be distributed towards:
 * 40% towards purchasing accessible calculators for Australian students receiving educational vision support services. 
 * 50% for EduVis to develop training and resources for Yr. 10-12 Victorian students wanting to operate CAS or Graphic calculators & software independently in VCE Maths.
-* 10% to Dr. [Kyle Keane](http://www.kylekeane.com/)'s research and development towards open source accessible CAS. Kyle is an advocate of disability access and a Massachusetts Institute of Technology lecturer and research programmer.-->
+* 10% to Dr. [Kyle Keane](http://www.kylekeane.com/)'s research and development towards open source accessible CAS. Kyle is an advocate of disability access and a Massachusetts Institute of Technology lecturer and research programmer. -->
 
 EduVis Entertainment Book Fundraising is distributed towards $500 bursaries to purchase expensive accessible calculators for Yr.10-12 Australian maths students with blindness and vision impairment. 
 It is anticipated that having an accessible calculator will improve student independence and improve the retention rate of students with BVI studying senior maths in secondary schools.
