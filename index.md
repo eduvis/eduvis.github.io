@@ -4,31 +4,29 @@
 
 layout: home
 title: Home
-description: >- # this means to ignore newlines until "baseurl:"
-  Eduvis, a not-for-profit organisation providing educational strategies for blind and vision (visually) impaired students taking up studies in mathematics and physical education within higher education.  Founded by Charlie Roberts.  Provides funding for accessible calculators, research and development of accessible CAS software calculators and presentations as a resource for VI students on available CAS solutions.
+description: >-
+  Eduvis, a not-for-profit organisation providing educational strategies for blind and vision (visually) impaired students taking up studies in mathematics and physical education within higher education. Founded by Charlie Roberts. Provides funding for accessible calculators, research and development of accessible CAS software calculators and presentations as a resource for VI students on available CAS solutions.
 ---
 
-Welcome to the online home of Eduvis, an organisation dedicated to the promotion of inclusive educational strategies for students with a vision impairment in fields of mathematics and physical education.  See the above links and / or use the search box at the top of this page to find more information.
+Welcome to the online home of Eduvis, an organisation dedicated to the promotion of inclusive educational strategies for students with a vision impairment in fields of mathematics and physical education. See the above links and / or use the search box at the top of this page to find more information.
 
-## The EduVis - &lsquo;Pat Roberts Accessible Calculator Benefit&rsquo; Entertainment Book fundraiser
+## The EduVis - 'Pat Roberts Accessible Calculator Benefit' Entertainment Book fundraiser
+
 [https://www.entertainment.com.au/orderbooks/965j898](https://www.entertainment.com.au/orderbooks/965j898)
 
-<!-- Old info:
-Following 10 purchases of the digital entertainment book using the above link, for each subsequent digital Entertainment Book purchase the PRACB will receive 20% of the purchase amount. Fundraising will be distributed towards:
-* 40% towards purchasing accessible calculators for Australian students receiving educational vision support services. 
-* 50% for EduVis to develop training and resources for Yr. 10-12 Victorian students wanting to operate CAS or Graphic calculators & software independently in VCE Maths.
-* 10% to Dr. [Kyle Keane](http://www.kylekeane.com/)'s research and development towards open source accessible CAS. Kyle is an advocate of disability access and a Massachusetts Institute of Technology lecturer and research programmer. -->
+EduVis Entertainment Book Fundraising is distributed towards $500 bursaries to purchase expensive accessible calculators for Yr.10-12 Australian maths students with blindness and vision impairment.
 
-EduVis Entertainment Book Fundraising is distributed towards $500 bursaries to purchase expensive accessible calculators for Yr.10-12 Australian maths students with blindness and vision impairment. 
 It is anticipated that having an accessible calculator will improve student independence and improve the retention rate of students with BVI studying senior maths in secondary schools.
 
 We are most grateful for donations to the benefit from Ronda & Barrie Moeller, Nicole Monroe & Sonja Braniff.
 
 ## Maple 2022 and Screen Reader Cheat-sheet
+
 Maple is a CAS software calculator approved by VCAA as an alternative to hardware CAS calculators. Charlie Roberts has developed a cheat sheet with the team at Ases, one of the re-sellers for Maplesoft, the company that makes Maple. The document summarises how to use the graphical and command-line interfaces of Maple 2022 with NVDA and JAWS but mostly NVDA.
 
 You can find out more and download it [here](/maple-2022-cheat-sheet/).
 
 ## Organisation Activity on Github
+
 <div class="github-profile-badge" data-user="eduvis"></div>
 <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
