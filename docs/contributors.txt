@@ -5,3 +5,4 @@ Contained below is a list of the people who have contributed to the Eduvis websi
 * Aditya Sarin <aditya28sarin@gmail.com>
 * Nathaniel Schmidt <schmidty2244@gmail.com> - Website creator and primary build maintainer
 * Izaak Van Ree - Presentation and formatting advice.
+* Gavin Douch - General maintainence and support
