@@ -10,11 +10,11 @@ description: >-
 
 Welcome to the online home of Eduvis, an organisation dedicated to the promotion of inclusive educational strategies for students with a vision impairment in fields of mathematics and physical education. See the above links and / or use the search box at the top of this page to find more information.
 
-## The EduVis - 'Pat Roberts Accessible Calculator Benefit' Entertainment Book fundraiser
+## The Eduvis - 'Pat Roberts Accessible Calculator Benefit' Entertainment Book fundraiser
 
 [https://www.entertainment.com.au/orderbooks/965j898](https://www.entertainment.com.au/orderbooks/965j898)
 
-EduVis Entertainment Book Fundraising is distributed towards $500 bursaries to purchase expensive accessible calculators for Yr.10-12 Australian maths students with blindness and vision impairment.
+Eduvis Entertainment Book Fundraising is distributed towards $500 bursaries to purchase expensive accessible calculators for Yr.10-12 Australian maths students with blindness and vision impairment.
 
 It is anticipated that having an accessible calculator will improve student independence and improve the retention rate of students with BVI studying senior maths in secondary schools.
 

@@ -1,4 +1,4 @@
-# EduVis Websites
+# Eduvis Websites
 
 Organisation Website. Visit [eduvis.com.au](http://eduvis.com.au) for currently public website.
 
