@@ -18,7 +18,7 @@ The PRACB and its aims have been approved at an interstate level in New South Wa
 
 ### Entertainment Book fundraiser
 
-EduVis Entertainment Book Fundraising is distributed towards $500 bursaries to purchase expensive accessible calculators for Yr.10-12 Australian maths students with blindness and vision impairment.
+Eduvis Entertainment Book Fundraising is distributed towards $500 bursaries to purchase expensive accessible calculators for Yr.10-12 Australian maths students with blindness and vision impairment.
 It is anticipated that having an accessible calculator will improve student independence and improve the retention rate of students with BVI studying senior maths in secondary schools.
 
 Link: [https://www.entertainment.com.au/orderbooks/965j898](https://www.entertainment.com.au/orderbooks/965j898)
