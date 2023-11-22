@@ -1,0 +1,89 @@
+/*Potential SASS syntax as a suggestion for the Eduvis organisation website at <https://eduvis.github.io/>
+Initially proposed by Nathaniel Schmidt
+Other editors?:
+Date created: 19/11/2023
+Modified: 
+Used as template: taken from <https://github.com/coedice/website/>*/
+
+/*SASS file for assets/css/styles.scss*/
+---
+---
+
+/*NOTE to Gavin from Nathaniel: for accessibility reasons, I wonder if there should be a black foreground on white background rather than white on black. Also, web/HTML equivalent of word-processing-style 14pt font size or a dynamic menu to customise this; and also arial font*/
+$foreground-color: black;
+/*$accent-color: #ee72f1;*/
+/*$minor-color: #acacac;*/
+$box-background-color: white;
+$hover-box-background-color: white;
+$background-color: white;
+
+$monospace-hierarchy: Courier, Menlo, monospace;
+// $animation_duration: 0.4s;
+
+/*@mixin round-box {
+  $padding: 20px;
+  $box-shadow-offset: 8px;
+  cursor: pointer;
+  border: transparent solid 1px;
+  background-color: $box-background-color;
+  border-radius: 20px;
+  text-decoration: none;
+  display: block;
+  padding: $padding;
+  margin-top: $padding;
+  transition: $animation_duration;
+  position: relative;*/
+
+  &:hover {
+    border: $accent-color solid 1px;
+    background-color: $hover-box-background-color;
+    box-shadow: -$box-shadow-offset $box-shadow-offset $accent-color, -$box-shadow-offset*0.75 $box-shadow-offset*0.75 $accent-color, -$box-shadow-offset*0.5 $box-shadow-offset*0.5 $accent-color, -$box-shadow-offset*0.25 $box-shadow-offset*0.25 $accent-color;
+  }
+
+/*  &:active {
+    transform: translate(-$box-shadow-offset, $box-shadow-offset);
+    box-shadow: 0 0 $accent-color;
+  }
+}
+
+@mixin animated_underline {
+  text-decoration: none;
+  position: relative;
+  color: $accent-color;
+
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: 8px;
+    left: 0;
+    width: 0;
+    border-bottom: 2px solid $accent-color;
+    transition: $animation_duration;
+  }
+
+  &:hover:after {
+    width: 100%;
+  }
+}*/
+
+@import "main";
+@import "projects";
+@import "about";
+@import "media";
+@import "blog";
+@import "qr";
+@import "anonkey";
+@import "syntax";
+
+/* Mobile */
+@media only screen and (max-width: 480pt) {
+  @import "main.mobile";
+  @import "projects.mobile";
+  @import "about.mobile";
+  @import "media.mobile";
+  @import "blog.mobile";
+  @import "qr.mobile";
+  @import "anonkey.mobile";
+}
+
+/*_sass dir:*/
