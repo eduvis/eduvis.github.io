@@ -7,7 +7,7 @@ description: >-
   research and development of accessible CAS software calculators and presentations as a
   resource for VI students on available CAS solutions.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eduvis.com.au" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://eduvis.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SCSS
 sass:
