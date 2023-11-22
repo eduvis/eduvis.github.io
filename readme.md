@@ -14,3 +14,17 @@ Organisation Website. Visit [eduvis.com.au](http://eduvis.com.au) for currently 
 * Brandon Combridge
 * [Brian Coogan](https://github.com/briancoogan)
 * Izaak Van Ree
+
+## Contributing
+
+To build the Jekyll site locally, naviagate to the root of the repo and execute:
+
+``` bash
+make run
+```
+
+If you have made changes to the Gemfile, execute
+
+``` bash
+make update
+```

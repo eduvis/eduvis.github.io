@@ -9,23 +9,46 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eduvis.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
+# SCSS
+sass:
+  style: compressed
+
 # Build settings
-theme: minima
+theme: texture
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Specific appearance and order of navigation links
-header_pages:
-  - index.md
-  - about.md
-  - team.md
-  - projects.md
-  - maple-2022-cheat-sheet.md
-  - testimonials.md
-  - links.md
-  - contact.md
+# Texture theme settings
+texture:
+  title: Eduvis
+  tagline: Education strategies for visually impaired students
+  date_format: "%b %-d, %Y"
+  style: custom
+  analytics_id: "G-CEDD9NZJKK"
+
+  social_links:
+    twitter: placeholder
+    github: eduvis
+    linkedIn: in/placeholder
+
+  showNav: true
+
+  navigation:
+    - title: Home
+      url: "/"
+    - title: About
+      url: "/about"
+    - title: Team
+      url: "/team"
+    - title: Projects
+      url: "/projects"
+    - title: Testimonials
+      url: "/testimonials"
+    - title: Links
+      url: "/links"
+    - title: Contact
+      url: "/contact"
 
 environment: prod
-google_analytics: G-CEDD9NZJKK
