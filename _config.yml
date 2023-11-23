@@ -20,6 +20,7 @@ sass:
 permalink: /posts/:title/
 
 # Build settings
+remote_theme: samarsault/texture
 theme: texture
 plugins:
   - jekyll-feed
@@ -39,7 +40,8 @@ texture:
     linkedIn: in/charlie-roberts-97505455
 
   showNav: true
-
+  showPicker: false
+  
   navigation:
     - title: Home
       url: "/"
