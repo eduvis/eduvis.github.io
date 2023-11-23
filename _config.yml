@@ -19,14 +19,6 @@ sass:
 
 permalink: /posts/:title/
 
-# Build settings
-remote_theme: samarsault/texture
-theme: texture
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
 # Texture theme settings
 texture:
   title: Eduvis
@@ -41,21 +33,29 @@ texture:
 
   showNav: true
   showPicker: false
-  
-  navigation:
-    - title: Home
-      url: "/"
-    - title: About
-      url: "/about"
-    - title: Team
-      url: "/team"
-    - title: Projects
-      url: "/projects"
-    - title: Testimonials
-      url: "/testimonials"
-    - title: Links
-      url: "/links"
-    - title: Contact
-      url: "/contact"
+
+header_pages:
+  - title: Home
+    url: "/"
+  - title: About
+    url: "/about"
+  - title: Team
+    url: "/team"
+  - title: Projects
+    url: "/projects"
+  - title: Testimonials
+    url: "/testimonials"
+  - title: Links
+    url: "/links"
+  - title: Contact
+    url: "/contact"
+
+# Build settings
+remote_theme: samarsault/texture
+theme: texture
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 environment: prod
