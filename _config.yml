@@ -1,17 +1,23 @@
 title: Eduvis
 name: Eduvis
+Author: Eduvis
+email: charlie@eduvis.com
 description: >-
   Eduvis, a not-for-profit organisation providing educational strategies for blind and vision
   (visually) impaired students taking up studies in mathematics and physical education within
   higher education.  Founded by Charlie Roberts.  Provides funding for accessible calculators,
   research and development of accessible CAS software calculators and presentations as a
   resource for VI students on available CAS solutions.
-baseurl: "" # the subpath of your site, e.g. /blog
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: /texture # the subpath of your site, e.g. /blog
 url: "http://eduvis.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SCSS
 sass:
+  sass_dir: _sass
   style: compressed
+
+permalink: /posts/:title/
 
 # Build settings
 theme: texture
@@ -29,7 +35,6 @@ texture:
   analytics_id: "G-CEDD9NZJKK"
 
   social_links:
-    twitter: placeholder
     github: eduvis
     linkedIn: in/charlie-roberts-97505455
 
