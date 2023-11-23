@@ -9,7 +9,7 @@ description: >-
   research and development of accessible CAS software calculators and presentations as a
   resource for VI students on available CAS solutions.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "http://eduvis.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SCSS
