@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Meet the Team
-description: Contained here is a briefly descriptive summary of the people involved in the Eduvis organisation
+description: Meet the people involved in the Eduvis organisation
 permalink: /team/
 ---
 

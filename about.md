@@ -1,10 +1,10 @@
 ---
-layout: page
-title: About Eduvis
-description: >-
-  Eduvis aims to provide informative numeracy and physical-educational resources and strategies for any blind or vision impaired (VI) students -- but specifically for those in Australian (Victorian) secondary education -- who may be considering the prospect of taking up studies in mathematics at an intermediate or advanced level, or physical education. Eduvis promotes educational independence of VI students at home and at school."
+title: About
+description: What we do, and why we do it
 permalink: /about/
 ---
+
+Eduvis aims to provide informative numeracy and physical-educational resources and strategies for any blind or vision impaired (VI) students - but specifically for those in Australian (Victorian) secondary education - who may be considering the prospect of taking up studies in mathematics at an intermediate or advanced level, or physical education. Eduvis promotes educational independence of VI students at home and at school.
 
 ## What is Eduvis?
 

@@ -1,11 +1,11 @@
 ---
-layout: page
-title: Home
-description: >-
-  Eduvis, a not-for-profit organisation providing educational strategies for blind and vision (visually) impaired students taking up studies in mathematics and physical education within higher education. Founded by Charlie Roberts. Provides funding for accessible calculators, research and development of accessible CAS software calculators and presentations as a resource for VI students on available CAS solutions.
+title: Eduvis
+description: Learning strategies for visually impaired students
 ---
 
 Welcome to the online home of Eduvis, an organisation dedicated to the promotion of inclusive educational strategies for students with a vision impairment in fields of mathematics and physical education. See the above links and / or use the search box at the top of this page to find more information.
+
+Eduvis is a not-for-profit organisation providing educational strategies for blind and vision (visually) impaired students taking up studies in mathematics and physical education within higher education. Founded by Charlie Roberts. Provides funding for accessible calculators, research and development of accessible CAS software calculators and presentations as a resource for VI students on available CAS solutions.
 
 ## [The Eduvis - 'Pat Roberts Accessible Calculator Benefit' Entertainment Book fundraiser](https://www.entertainment.com.au/orderbooks/965j898)
 
