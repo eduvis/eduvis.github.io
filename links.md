@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Links
-description: >-
-  Contained below are links to external resources that may be helpful to teachers, students or parents/guardians seeking support for vision impaired students in various fields of study, especially as it relates to mathematics courses.
+description: External resources and tools
 permalink: /links/
 ---
 Contained below are links to external resources that may be helpful to teachers, students or parents / guardians seeking support for VI students in various fields of study, especially as it relates to mathematics courses.

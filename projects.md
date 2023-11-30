@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Projects
-description: "Contained below is a descriptive container of the projects affiliated with Eduvis."
+description: Various projects affiliated with Eduvis
 permalink: /projects/
 ---
 

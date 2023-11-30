@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Contact Us
-description: "Contact information for the Eduvis organisation."
+description: Contact information for the Eduvis organisation
 permalink: /contact/
 ---
 

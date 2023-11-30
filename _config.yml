@@ -1,31 +1,39 @@
 title: Eduvis
 name: Eduvis
-description: >-
-  Eduvis, a not-for-profit organisation providing educational strategies for blind and vision
-  (visually) impaired students taking up studies in mathematics and physical education within
-  higher education.  Founded by Charlie Roberts.  Provides funding for accessible calculators,
-  research and development of accessible CAS software calculators and presentations as a
-  resource for VI students on available CAS solutions.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eduvis.com.au" # the base hostname & protocol for your site, e.g. http://example.com
+Author: Eduvis
+email: charlie@eduvis.com
+description: Learning strategies for visually impaired students.
+show_excerpts: true
+url: "http://eduvis.com.au"
+google_analytics: G-CEDD9NZJKK
+
+# SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+nav:
+  - title: Home
+    url: "/"
+  - title: About
+    url: "/about"
+  - title: Team
+    url: "/team"
+  - title: Projects
+    url: "/projects"
+  - title: Testimonials
+    url: "/testimonials"
+  - title: Links
+    url: "/links"
+  - title: Contact
+    url: "/contact"
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-# Specific appearance and order of navigation links
-header_pages:
-  - index.md
-  - about.md
-  - team.md
-  - projects.md
-  - maple-2022-cheat-sheet.md
-  - testimonials.md
-  - links.md
-  - contact.md
+  - jekyll-remote-theme
 
 environment: prod
-google_analytics: G-CEDD9NZJKK
