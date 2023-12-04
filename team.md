@@ -28,4 +28,4 @@ Contact information for Nathaniel can be found [here](https://njschmidt.id.au/co
 
 ### Contacting Gavin
 
-Contact information for Nathaniel can be found [here](https://gavindou.ch/contact).
+Contact information for Gavin can be found [here](https://gavindou.ch/contact).
